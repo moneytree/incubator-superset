@@ -85,7 +85,7 @@ setup(
         "flask-migrate",
         "flask-wtf",
         "geopy",
-        "gunicorn<19.9.0",  # deprecated
+        "gunicorn<22.1.0",  # deprecated
         "humanize",
         "isodate",
         "markdown>=3.0",
